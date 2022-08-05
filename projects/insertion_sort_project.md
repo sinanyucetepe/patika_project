@@ -42,9 +42,10 @@ n+(n-1)+(n-2)+..+1  ==> n*(n+1)/2=((n^2)+n)/2   Big-O gösterimi O(n^2)
 Soru 3)
 
 Time Complexity: 
-Average case: Aradığımız sayının ortada olması
-Worst case: Aradığımız sayının sonda olması
-Best case: Aradığımız sayının dizinin en başında olması.
+Average case: Aradığımız sayının ortada olması                  O(n^2)
+Worst case: Aradığımız sayının sonda olması                     O(n^2)
+Best case: Aradığımız sayının dizinin en başında olması.        O(n)
+
 
 Soru 4)
 
